@@ -1,29 +1,5 @@
 from bs4 import BeautifulSoup
-import numpy as np
-import re
-import json
-
-def get_num_stat(selector: str, items: list):
-    nums = list(map(lambda x: float(x[selector]), items))
-
-    stat = {}
-
-    stat['sum'] = sum(nums)
-    stat['min'] = min(nums)
-    stat['max'] = max(nums)
-    stat['avg'] = np.average(nums)
-    stat['std'] = np.std(nums)
-
-    return stat
-
-def get_freq(selector: str, items: list):
-    freq = {}
-
-    for item in items:
-        if selector in item:
-            freq[item[selector]] = freq.get(item[selector], 0) + 1
-    
-    return freq
+import utils
 
 def handle_file(file_name):
     with open(file_name, encoding="utf-8") as file:
@@ -37,6 +13,20 @@ def handle_file(file_name):
     item['vintage'] = int(site.find_all("option", attrs={"selected": "selected"})[0].get_text().strip())
     item['case_size'] = site.find_all("div", attrs={"class": "pricing-option"})[0].get_text().split("\n")[3].strip()
     item['price'] = float(site.find_all("span", attrs={"class": "price"})[0].get_text().replace("£", "").replace(",", "").strip())
+    item['img'] = site.find_all("img", attrs={"class": "main-product-image-large"})[0]['src']
+
+    parsed_reviews = site.find_all("div", attrs={"class", "expert-review"})
+
+    if parsed_reviews is not None:
+        item["reviews"] = list()
+        for parsed_review in parsed_reviews:
+            review = dict()
+
+            review["author"] = parsed_review.find_all("div", attrs={"class", "author"})[0].get_text().strip()
+            review["score"] = parsed_review.find_all("div", attrs={"class", "score"})[0].get_text().strip()
+            review["note"] = parsed_review.find_all("div", attrs={"class", "note"})[0].get_text().strip()
+
+            item["reviews"].append(review)
 
     return item
 
@@ -47,21 +37,15 @@ for i in range(1, 11):
 
 items = sorted(items, key=lambda x: x['price'], reverse=True)
 
-with open("./task5/result2_all.json", 'w', encoding="utf-8") as f:
-    f.write(json.dumps(items))
-
 filtered_items = []
 for item in items:
     if item['vintage'] > 2005:
         filtered_items.append(item)
 
-with open("./task5/result2_filtered.json", 'w', encoding="utf-8") as f:
-    f.write(json.dumps(filtered_items))
+num_stat = utils.get_num_stat("price", items)
+case_size_freq = utils.get_freq("case_size", items)
 
-num_stat = get_num_stat("price", items)
-
-print(num_stat)
-
-title_freq = get_freq("case_size", items)
-
-print(title_freq)
+utils.write_to_json("./task5/result2_all.json", items)
+utils.write_to_json("./task5/result2_filtered.json", filtered_items)
+utils.write_to_json("./task5/result2_num_stat.json", num_stat)
+utils.write_to_json("./task5/result2_case_size_freq.json", case_size_freq)

@@ -1,29 +1,5 @@
 from bs4 import BeautifulSoup
-import numpy as np
-import re
-import json
-
-def get_num_stat(selector: str, items: list):
-    nums = list(map(lambda x: int(x[selector]), items))
-
-    stat = {}
-
-    stat['sum'] = sum(nums)
-    stat['min'] = min(nums)
-    stat['max'] = max(nums)
-    stat['avg'] = np.average(nums)
-    stat['std'] = np.std(nums)
-
-    return stat
-
-def get_freq(selector: str, items: list):
-    freq = {}
-
-    for item in items:
-        if selector in item:
-            freq[item[selector]] = freq.get(item[selector], 0) + 1
-    
-    return freq
+import utils
 
 def handle_file(file_name):
     with open(file_name, encoding="utf-8") as file:
@@ -47,21 +23,15 @@ for i in range(1, 501):
 
 items = sorted(items, key=lambda x: int(x['radius']), reverse=True)
 
-with open("./task3/result_all.json", 'w', encoding="utf-8") as f:
-    f.write(json.dumps(items))
-
 filtered_items = []
 for item in items:
     if float(item['rotation'].replace(' days', '').strip()) >= 500:
         filtered_items.append(item)
 
-with open("./task3/result_filtered.json", 'w', encoding="utf-8") as f:
-    f.write(json.dumps(filtered_items))
+num_stat = utils.get_num_stat("radius", items)
+title_freq = utils.get_freq("constellation", items)
 
-num_stat = get_num_stat("radius", items)
-
-print(num_stat)
-
-title_freq = get_freq("constellation", items)
-
-print(title_freq)
+utils.write_to_json("./task3/result_all.json", items)
+utils.write_to_json("./task3/result_filtered.json", filtered_items)
+utils.write_to_json("./task3/result_num_stat.json", num_stat)
+utils.write_to_json("./task3/result_title_freq.json", title_freq)

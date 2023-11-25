@@ -1,1 +1,342 @@
-[{"name": "Champagne Salon Blanc de Blancs 2012", "vintage": 2012, "case_size": "3 \u00d7 75cl", "price": 2990.0}, {"name": "Dom Perignon 2004", "vintage": 2004, "case_size": "6 \u00d7 75cl", "price": 1400.0}, {"name": "Rare Brut Millesime 2008", "vintage": 2008, "case_size": "3 \u00d7 1.5L", "price": 1090.0}, {"name": "Jacquesson Avize Champ Cain 2009", "vintage": 2009, "case_size": "6 \u00d7 75cl", "price": 772.0}, {"name": "Taittinger Comtes de Champagne Rose 2011", "vintage": 2011, "case_size": "3 \u00d7 75cl", "price": 580.0}, {"name": "Charles Heidsieck Brut Millesime 2013", "vintage": 2013, "case_size": "6 \u00d7 75cl", "price": 450.0}, {"name": "Delamotte Blanc de Blancs 2014", "vintage": 2014, "case_size": "3 \u00d7 1.5L", "price": 367.0}, {"name": "Taittinger Brut Vintage 2014", "vintage": 2014, "case_size": "6 \u00d7 75cl", "price": 312.0}, {"name": "Deutz Blanc de Blancs 2013", "vintage": 2013, "case_size": "6 \u00d7 75cl", "price": 290.0}, {"name": "Barons de Rothschild Blanc de Blancs 2008", "vintage": 2008, "case_size": "1 \u00d7 75cl", "price": 178.0}]
+[
+    {
+        "name": "Champagne Salon Blanc de Blancs 2012",
+        "vintage": 2012,
+        "case_size": "3 × 75cl",
+        "price": 2990.0,
+        "img": "/products/cut-out/1500/salon-le-mesnil-blanc-de-blancs-2012-75cl.png",
+        "reviews": [
+            {
+                "author": "William Kelley",
+                "score": "98+/100",
+                "note": "“Back in 2014, Salon's president Didier Depond was quoted in the press as saying that “since 2008, there has been no genuinely great vintage in Champagne\" and that a 2012 from Salon wouldn't be released. But the just-released 2012 Brut Blanc de Blancs Le Mesnil shows that he had good reason to change his mind, as to my palate this is, after the 2008, the finest Salon produced this millennium. Unwinding in the glass with notes of citrus oil, wet stones, freshly baked bread, white currants and oyster shell, it's full-bodied, deep and concentrated, with a tightly wound core of fruit, racy acids and an elegant pinpoint mousse. Concluding with a long and resonant finish, this is a structured and powerful Salon that's a lot more incisive than, for example, the 2002 at the same stage, but which also carries more muscle and substance than a leaner vintage such as 2007. For readers that have balked at the pricing of the magnum-only 2008, the 2012 isn't far off the latter's level in quality, and will presumably be distributed more conventionally.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "94/100",
+                "note": "“A rollercoaster year in the vineyards with hopes for a quality crop only rising at harvest time. Salon initially wasn't promising a vintage, but changed its mind having come up with something instantly rewarding. Bright, sweetly fruity nose on the sweet green fruit side: lime, pear drops, licorice, jasmine and fragrant orange blossom tones. A flick of vanilla complements the whole. The palate has a silky flow of volume yet a firm backbone of brisk acidity enhancing the notion of explosive fruitiness. The chalky mineral bite comes forward on the long, intense and dry finish. This wine hasn’t moved a lot in the past year, promising longevity. Disgorged 3/21; dosage 5g/l”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97/100",
+                "note": "“The 2012 Salon is absolutely gorgeous. It offers a beguiling mix of radiance and energy that seems to capture a little bit of elements of some of its older siblings. The expression of fruit is radiant and quite overt, but without reaching the tropical exuberance of the 2006. In shape, the 2012 recalls the mid-weight style of 2007 with the freshness of 2008, but not quite the youthful austerity of that wine. If that sounds like an appealing combination, well it is. The 2012 Salon is all harmony and class.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "93 → 95/100",
+                "note": "“Pinot Noir was the king of this climatically challenging vintage. Thus early on Salon wasn’t promising us a vintage. However, they changed their mind having come up with something instantly rewarding and generous. Bright, sweetly fruity nose on the tropical side with lemon, jasmine and orange blossom. The palate has volume yet a firm backbone of brisk acidity. The chalky mineral notions come forward on the long, intense and dry finish. ”"
+            }
+        ]
+    },
+    {
+        "name": "Dom Perignon 2004",
+        "vintage": 2004,
+        "case_size": "6 × 75cl",
+        "price": 1400.0,
+        "img": "/products/cut-out/1500/dom-perignon-2004.png",
+        "reviews": [
+            {
+                "author": "Jancis Robinson MW",
+                "score": "17.5/20",
+                "note": "“Tasted blind. Notably sweet – icing sugar? – nose. More serious on the palate. Great tightly drawn texture suggests Dom P. But not enormous undertow, just a little loose. A 2004?”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97/100",
+                "note": "“Another stellar wine, the 2004 Dom Pérignon is just starting to show the first signs of aromatic development, as well as a bit of added weight it did not have as a young wine. The 2004 remains a bright, mid-weight DP built on persistence and length more than overt volume. I have always had a soft spot for the 2004. This tasting does nothing to dampen that enthusiasm.”"
+            },
+            {
+                "author": "Jancis Robinson MW",
+                "score": "19/20",
+                "note": "“Three-litre Jéroboam. A vintage described by Richard Geoffroy as ‘a no-brainer – you just had to be wise enough to step back’. The biggest ever vintage – still.\nReal richness of age on the nose – even a suggestion of crème pâtissière. This is a real classic with massive edge and excitement. Lovely neat, saline finish.\nDrink 2015-2030”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97/100",
+                "note": "“A wine of nuance, precision and understatement, the 2004 remains all grace. Time has softened some of the contours, but the flavors remain fresh and vibrant. Medium in body, the 2004 can be enjoyed now or cellared for several decades. This is a gorgeous showing from the 2004, a wine that has been captivatingly beautiful from the first time I tasted it years ago. There is something effortless about the 2004 that is hard to capture with words. The 2004 doesn't quite have the obvious breeding of the 2008 and 2002, nor the obvious power of the 2003 or 2006, and yet it is harmonious, sublime and totally sensual. ”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97/100",
+                "note": "“One of the stars in this tasting, the 2004 Dom Pérignon is starting to express the potential it hinted at as a young wine. Specifically, the 2004 has gained quite a bit of volume and overall depth within the last few years. The first signs of aromatic nuance are starting to develop, which suggests the 2004 will soon enter its first plateau of maturity.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "95 → 97/100",
+                "note": "“Elegantly toasty sweet patisserie nose with coffee, perfume and flowers. Lively, mineral, racy, crisp palate with great fruit purity. On the reductive side but beautifully so. Still young with tight, compact palate. A ballerina. A classic, super fresh and delightfully light Dom Pérignon with a green note and a cool breeze to it. I will love to follow up how this one ages. Very much a DP and very much a 2004.”"
+            },
+            {
+                "author": "Robert Parker Jr",
+                "score": "92+/100",
+                "note": "“The 2004 Dom Pérignon is from a classic vintage and a very generous year in terms of yields. White-golden in color, the clear, discreet and subtle nose gives way to dried white rather than yellow fruits, raisins and hazelnuts, as well as to floral and herbal aromas. Less generous and concentrated in the mouth than the 2005 and austerely dry at the moment, the 2004 shows its great finesse and characteristic minerality. There should be a better point of time to praise its class, so trust and keep it!”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "95/100",
+                "note": "“Elegantly toasty sweet patisserie nose with coffee, perfume and flowers. Lively, mineral, racy, crisp palate with great fruit purity. On the reductive side but beautifully so. Still young with tight, compact palate. A ballerina. A classic, super fresh and delightfully light Dom Pérignon with a green note and a cool breeze to it. I will love to follow up how this one ages. Very much a DP and very much a 2004.”"
+            },
+            {
+                "author": "Jancis Robinson MW",
+                "score": "18.5+/20",
+                "note": "“Tasted blind. Very minerally nose. Excellent acidity. Very well structured. Still a little bit of framework here as well as fruit. Quite a youthful wine. But broad and exotic on the nose. 2004? ”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97+/100",
+                "note": "“Racy, silky and vibrant in the glass, the 2004 Dom Pérignon is all about energy. Here the flavors are bright and delineated throughout, with veins of acidity and minerality that give the wine its sense of drive. Mint, rosemary and yellow-fleshed fruits linger on the finish with the classic DP reductive overtones that are such a signature. Once again, the 2004 Dom Pérignon truly shines. The 2004 Dom Pérignon is a wine to treasure over the next thirty or so years.”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "97/100",
+                "note": "“This tasting only serves to highlight just how great the 2004 Dom Pérignon is. A wine that has totally blossomed in bottle, the 2004 is firing on all cylinders right now. Rich, ample and beautifully nuanced, the 2004 has it all; expressive aromatics, deep fruit and more than enough structure to age well for decades. I have been tasting the 2004 since before it was released and it just keeps getting better and better. Today, it is stunning. It is amazing to consider that in 2004, yields were the largest ever recorded in Champagne.”"
+            },
+            {
+                "author": "Stephen Tanzer",
+                "score": "94/100",
+                "note": "“Vivid yellow. High-pitched, mineral-accented aromas of pear, Meyer lemon, quince and jasmine, with smoke and toasted grain qualities adding bass notes. Spicy, penetrating and pure, boasting impressive vivacity to its fresh orchard and citrus fruit flavors. Gains weight and breadth with air while maintaining vivacity, picking up a gingery nuance that carries through a long, smoky finish. I'd bet on this taut, youthful Champagne rewarding many more years of patience.”"
+            },
+            {
+                "author": "David Schildknecht",
+                "score": "95/100",
+                "note": "“Lily-of-the-valley perfume and scents of lightly toasted brioche and almond rise from the glass of Moet’s 2004 Brut Dom Perignon, along with hints of the apricot, pear and grapefruit that then inform a luscious and creamy yet strikingly delicate as well as consummately refreshing palate. Sweet-saline savor of scallop – also already intimated in the nose – lends compulsive saliva-inducement to a ravishingly rarified and persistent finish, joined by alkaline, nutty, liquid-floral, and nori seaweed notes for a performance of head-scratching subtlety and intrigue. (In case my description hasn’t already made clear, we have here inter alia a fantastic sushi wine.) This will be worth following for at least the next 6-8 years, in the course of demonstrating that iconic status as a luxury brand, and elevated (albeit secret) production numbers by no means preclude a wine of understated as well as profound beauty.”"
+            },
+            {
+                "author": "Wine Spectator",
+                "score": "95/100",
+                "note": "“There’s a sense of tension paired with grace in this deftly balanced version, with a rich and smoky vein of minerality underscoring the flavors of poached apple, honey, financier and sun-dried black cherry, showing hints of roasted almond, coffee liqueur and ground spice. Drink now through 2029”"
+            },
+            {
+                "author": "Jancis Robinson MW",
+                "score": "18.5/20",
+                "note": "“Very pale straw gold with surely the most discreet bubbles in the champagne world. Very different from the 2003. A much more recognisable Dom Pérignon sort of nose with fairly intense classic toastiness. Minerals and raciness rather than fruit and body. Marked acidity and even a little lean but very fine. There are notes of iodine and bitter orange peel. This wine really gets saliva flowing. The finish is not massively persistent but overall this is a very well mannered wine. A Chablis of a champagne - which 2003 definitely wasn't! (It was more of a Pouilly-Fuissé.)”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "96/100",
+                "note": "“The 2004 Dom Pérignon continues to develop beautifully. A vibrant, focused Champagne, the 2004 clearly reflects the personality of the year. Freshly cut flowers, white peaches and pears are woven together in a Champagne that impresses for its focus and energy. Chiseled saline note support the crystalline finish. I imagine the 2004 will always remain relatively bright and linear, but at the same time, each time I have tasted it over the last two years the 2004 seems to have a little more body and broader shoulders. The 2004 will appeal most to readers who find the 2002 and 2003 too exuberant. There is a lot to like in the glass.”"
+            }
+        ]
+    },
+    {
+        "name": "Rare Brut Millesime 2008",
+        "vintage": 2008,
+        "case_size": "3 × 1.5L",
+        "price": 1090.0,
+        "img": "/products/cut-out/1500/rare-brut-millesime-2008-150cl.png",
+        "reviews": [
+            {
+                "author": "Essi Avellan MW",
+                "score": "98 → 100/100",
+                "note": "“Bottle | Tasting Rare 2008 upon launch, it is exquisitely elegant, radiantly fruity and mineral, but still holding back plenty. It is almost like a time bomb having so much fruit and vitality to it that it feels near immortal. Beautifully detailed nose with fresh fruity profile with pineapple, lemon, sweet vanilla and roasted coffee beans meeting liquorice and smoky almonds. The fruitiness is pure, ripe yet crunchy. On the palate it is tightly knit and driven with its crisp acidity perfectly bound to the radiant fruitiness. Lacey texture with shows tension, the wine finishes to a palate-cleansingly fresh salty tang. Really refined vintage of Rare with majestic longevity ahead. ”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "98/100",
+                "note": "“Bottle | With over two thirds of Chardonnay from Avize and Oger in the Côte des Blancs and Villers-Marmery on the Montagne de Reims, this always comes with freshness, elegance and sweet, exuberant toasty notes. In the cool 2008 vintage, Verzy Pinot Noir further amplifies the notions of linearity and tension, making this a hugely slowly ageing Rare. Shiny lemon colour. The nose is instantly impressive: deliciously toasty, with ginger and coffee playing with pineapple, blood orange and yellow peach. With time in glass, it opens up gloriously. It is still holding back a lot on the nose, but it appears utterly sophisticated already. There is such silkiness to the linear, driven, super-saline palate. Really youthful still, this is a magnificent Rare. Dosage 10g/l”"
+            },
+            {
+                "author": "Tom Hewson",
+                "score": "97/100",
+                "note": "“Bottle | 70% Chardonnay from Avize, Oger and Villers-Marmery, 30% Pinot Noir from Verzy. There is not even a hint of a crack in the armour of Rare 2008 yet; it manages to hold the imperious structure of the year without seeming 'difficult', as some 2008s do at the moment. The signatures of mango cream and exotic notes melt into nougat and fresh ground nut, sparks of gunpower and succulent citrus confit. Some coffee richness is coming too. The 08 acidity feels like a bit of a kicker, but it is never out on a limb or threatening austerity. A finely tuned, immaculately-built time machine which shows all the signs of remaining beautifully integrated over the long term.”"
+            },
+            {
+                "author": "Jancis Robinson MW",
+                "score": "17.5/20",
+                "note": "“Bottle | 70% Chardonnay, 30% Pinot Noir from 11 crus (including Villers-Marmery, Vertus, Montgueux for Chardonnay and Aÿ, Verzy and Ambonnay for Pinot Noir). No oak. Full malo. Régis Camus left this blend on lees for 10 years and then aged it for a year after disgorgement in November 2019 with a dosage of 10 g/l. Interesting how difficult it is for this wine to shed its relationship with Piper-Heidsieck on search engines.\nBrilliant pale coppery colour. Mmmm! So concentrated and heady with a huge array of aromas including, amazingly, coconut – but not in a tarty way. Masses of tense lime fruit aromas. Very dense nose. Lifted and refreshing and this seems much more youthful than12 years old. It does rather remind me of Dom Pérignon with its concentration and density but I don't suppose that comment will necessarily be welcome with the winemaker. It's just so electric in texture. Truly an exciting, luxurious champagne.”"
+            },
+            {
+                "author": "William Kelley",
+                "score": "93+/100",
+                "note": "“Bottle | The 2008 Brut Cuvée Rare, now re-baptized as \"Rare Champagne,\" continues to evolve at a glacial pace. Offering up aromas of citrus oil, freshly baked bread and wet stones, it's medium to full-bodied, taut and incisive, with a tangy spine of acidity and a pretty pinpoint mousse, but much in the way of texture or amplitude has yet to emerge. While I continue to think that this has the makings of a very attractive bottling, continued patience is advised.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "96 → 99/100",
+                "note": "“Bottle | “Tasting Rare 2008 upon launch, it is exquisitely elegant, radiantly fruity and mineral, but still holding back plenty. It is almost like a time bomb having so much fruit and vitality to it that it feels near immortal. Beautifully detailed nose with fresh fruity profile with pineapple, lemon, sweet vanilla and roasted coffee beans meeting liquorice and smoky almonds. The fruitiness is pure, ripe yet crunchy. On the palate it is tightly knit and driven with its crisp acidity perfectly bound to the radiant fruitiness. Lacey texture with shows tension, the wine finishes to a palate-cleansingly fresh salty tang. Really refined vintage of Rare with majestic longevity ahead.””"
+            },
+            {
+                "author": "Anne Krebiehl MW",
+                "score": "96/100",
+                "note": "“Bottle | Lemon zest frames the creamy richness on the nose that has hints of chalk and coconut macaroon but also reveals a beautiful depth that evokes summer rain on limestone soils. The palate comes with all the precision and exquisite freshness of 2008 but encapsulates a truffle- like complexity at its concentrated core: there is a floral hit of peony, something rich reminiscent of milk chocolate ganache and more of that virile and pervasive lemon freshness. This is glorious and somehow manages to convey great richness within that elegant and characteristic framework set by the amazing 2008 vintage.”"
+            },
+            {
+                "author": "Alison Napjus",
+                "score": "97/100",
+                "note": "“Bottle | Like a stallion out of the gate, this shows an initial explosion of power, in the form of mouthwatering flavours and fine texture, before quickly settling into an elegant gait. The racy acidity is seamlessly knit, buoying the lacy mousse and flavours of cassis, toasted brioche and tangerine, with accents of candied ginger, hazelnut and fleur de sel lingering on the long, creamy finish. Drink now through 2035.”"
+            },
+            {
+                "author": "Roger Voss",
+                "score": "96/100",
+                "note": "“Bottle | The new release of this producer`s prestige cuvée comes in its usual beautifully sculpted bottle. The Champagne, from a great vintage in the region, is just approaching maturity still showing minerality from the high amount of Chardonnay in the blend. Nutty flavours are creeping in, keeping the great texture adding complexity. Drink this very fine wine now although it will also age further.”"
+            }
+        ]
+    },
+    {
+        "name": "Jacquesson Avize Champ Cain 2009",
+        "vintage": 2009,
+        "case_size": "6 × 75cl",
+        "price": 772.0,
+        "img": "/products/cut-out/1500/jacquesson-avize-champ-cain-2009.png",
+        "reviews": [
+            {
+                "author": "William Kelley",
+                "score": "94/100",
+                "note": "“The 2009 Extra-Brut Grand Cru Avize - Champ Caïn is showing beautifully, wafting from the glass with aromas of pear, blanched almonds, freshly baked bread and mandarin. Medium to full-bodied, pillowy and precise, it's elegant and refined, with a pinpoint mousse, discreet depth at the core and a long, chalky finish. Beautifully balanced with minimal dosage, it shows the results the Jacquesson brothers' viticulture were already delivering over a decade ago.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "93/100",
+                "note": "“This wine comes from the 1.3ha Champ Caïn plot in Avize, planted in 1962. The colour is deep lemon gold. The sumptuously soft nose has lovely creamy-toasty layers adding complexity to the fruit. The ripe fruit is sweet in style, even tropical, with pineapple, apple jam and pear tart. The oakiness is well blended in the rich fruitiness, not masking anything. The age comes across more on the palate, which feels a little too dry with its tiny dosage cutting the finish short, bringing a degree of austerity. Still a glorious, vinous and concentrated Champagne at the perfect drinking age. Disgorged 6/19; dosage 1.5g/l”"
+            }
+        ]
+    },
+    {
+        "name": "Taittinger Comtes de Champagne Rose 2011",
+        "vintage": 2011,
+        "case_size": "3 × 75cl",
+        "price": 580.0,
+        "img": "/products/cut-out/1500/taittinger-comtes-de-champagne-rose-2011-75cl.png",
+        "reviews": [
+            {
+                "author": "Yohan Castaing",
+                "score": "94/100",
+                "note": "“Disgorged in October 2022, the 2011 Brut Comtes de Champagne Rosé is a blend of 40% Chardonnay and 60% Pinot Noir, including fully 14% of red wine that lends it notable depth of colour this year. The bouquet is complex and incipiently spicy, evoking aromas of cherries, buttery pastry, raspberries and tangerine, with an attractive minty top note. Medium to full-bodied, layered and vinous, with chalky structuring extract, it concludes with a long, sapid finish. The limitations of the vintage mean that this is giving, rather open-knit Comtes Rosé, but it is nevertheless a great effort in a challenging year and exhibits none of the herbaceous qualities that mar some of the wines produced in this year. Drink it now and over the next decade.”"
+            }
+        ]
+    },
+    {
+        "name": "Charles Heidsieck Brut Millesime 2013",
+        "vintage": 2013,
+        "case_size": "6 × 75cl",
+        "price": 450.0,
+        "img": "/products/cut-out/1500/charles-heidsieck-brut-millesime-2013.png",
+        "reviews": [
+            {
+                "author": "Essi Avellan MW",
+                "score": "95/100",
+                "note": "“Ten villages contributed grapes to this vintage cuvée in 2013: Oger, Vertus, Chouilly, Cuis, Verzy, Aÿ, Ludes, Ambonnay, Tauxières and Avenay. The colour is still youthfully lemony, whereas the nose already shows toasty charms. The wine's bright, vibrant fruitiness is building up exotic and spicy notes, as well as coffee and cream layers. The palate comes with fine precision in perfect purity. There is a brilliance to the wine on the lacy, refined palate. Very youthful still, this vintage seems to be ageing very slowly and gracefully, adding to its rich and toasty deliciousness.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "94 → 97/100",
+                "note": "“Charles Heidsieck’s racy 2013 vintage is a blend of ten Grands and Premiers Crus: Oger, Vertus, Chouilly, Cuis, Verzy, Aÿ, Ludes, Ambonnay, Tauxières and Avenay-Val d’Or. Usually appreciated for the richness and toast-enriched complexity of its Vintage cuvées, Charles Heidsieck 2013 plays on totally different assets, cool refinement and silky linearity. Despite excellent ripeness of the grapes, the October harvest brought about a tight acid line and fine aromatic restraint to it. Toastiness is subtle for the time being, but remarkably elegant, perfectly lining the sweet orchard fruit profile. Its best quality is the prism like radiance and purity of fruit. Showing highly youthful, this wine promises to be slowly but gracefully ageing. Suitably dosed at 9g/l.”"
+            },
+            {
+                "author": "Yohan Castaing",
+                "score": "93/100",
+                "note": "“The bouquet of the 2013 Brut Millésimé is compellingly fresh and minty, complicated by notes of white fruit—notably pear and apple—citrus and gentle spices, as well as a light touch of smoke. With aeration, elegant pastry notes come to the fore. On the palate, this is a structured, tension-filled but airborne Champagne with racy acidity, fleshy and charming texture and a long, penetrating finish. It should age well over the next eight to 10 years. Disgorged in 2022 with nine grams per liter, this is a blend of 57% Pinot Noir and 43% Chardonnay.”"
+            },
+            {
+                "author": "Stuart Pigott",
+                "score": "94/100",
+                "note": "“A very striking nose with Reine Claude plums, old-fashioned apple varieties and some Nordic herbs. Structured and crisp with a very firm core, the finish driving and full of energy. Rich long finish with a chalky core. 60% pinot noir and 40% chardonnay, the make up of the blend very unconventional for this house.”"
+            }
+        ]
+    },
+    {
+        "name": "Delamotte Blanc de Blancs 2014",
+        "vintage": 2014,
+        "case_size": "3 × 1.5L",
+        "price": 367.0,
+        "img": "/products/cut-out/1500/delamotte-blanc-de-blancs-2014-150cl.png",
+        "reviews": [
+            {
+                "author": "William Kelley",
+                "score": "94/100",
+                "note": "“Delamotte's just-released 2014 Blanc de Blancs has turned out very well indeed, opening in the glass with scents of citrus zest, crisp orchard fruit, fresh bread and wet stones. Medium to full-bodied, chiseled and incisive, with excellent depth at the core, racy acids and a chalky finish, this isn't as muscular as the 2008 or 2012, but it has real cut and persistence and should age very gracefully indeed.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "94/100",
+                "note": "“This is only the third vintage of this cuvée composed of all six grands crus of the Côte des Blancs, since Chouilly and Oiry joined the original quartet of Cramant, Avize, Oger and Le Mesnil-sur-Oger in 2008. The nose prompts an instant wow reaction, being so irresistibly classy, with sweet, toasty exuberance complementing the shiny, bright fruitiness. Lovely intensity of lemony fruit, delicate floral notes wrapped in toasty tones. The palate is appropriately tight and lean for the time being but coming with laciness and drive. This is such a bright, vibrant, overdelivering wine, oozing its grand cru origins with every drop. Dosage 6.5g/l”"
+            },
+            {
+                "author": "Antonio Galloni",
+                "score": "94/100",
+                "note": "“The 2014 Blanc de Blancs is seriously impressive. Ample in feel, Delamotte is especially rich in 2014, and yet there is plenty of freshness to balance things out. This is an especially savory style for Delamotte, and one that works so well. Dried lemon peel, pastry, almond, dried herbs and chamomile open in a beautifully translucent Blanc des Blancs that marries power and finesse. I can’t wait to see how it ages.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "92 → 94/100",
+                "note": "“Such a consistent wine from vintage to another, Delamotte Blanc de Blancs brings together the six Grands Crus of the Côte des Blancs. Pristinely crafted, the wine is squeaky clean and radiant, with cool, crunchy lemony fruit at centre stage. Beautiful reductive smoky tones lining the intense fruitiness. The racy palate is pleasantly creamy and silky with a lingering long finish. ”"
+            },
+            {
+                "author": "James Suckling",
+                "score": "94/100",
+                "note": "“A pretty Blanc de Blancs with aromas of white grapefruit, lemon pith, dried honeysuckle and white peach. Silky and creamy with bright acidity and\nan elegant finish.\nDrink now.”"
+            },
+            {
+                "author": "wineenthusiast.com",
+                "score": "93/100",
+                "note": "“From the Grand Cru village of Le Mesnil-sur-Oger on the Côte des Blancs, this well-textured Champagne shows a crisp apple freshness underlined by strong minerality. At seven years past vintage, the wine is just starting to lose its initial freshness and develop attractive toasty elements. Drink now”"
+            },
+            {
+                "author": "Alison Napjus",
+                "score": "92/100",
+                "note": "“A finely-meshed, linear Champagne, with racy acidity and a citrusy overtone driving flavors of poached apricot, biscuit, candied lemon peel and a toasty hint of brioche. Fine and creamy.\nDrink now through 2026”"
+            },
+            {
+                "author": "Yohan Castaing",
+                "score": "94/100",
+                "note": "“Offering up an elegant yet bright bouquet, this 2014 Delamotte Blanc de Blancs opens in the glass with orchard fruits, verbena, lemon zest, pastry, and slightly reductive aromas. Chiselled and perfectly balanced, the palate is lively and intense, and expresses clearly the fruit and the straightforward nature of the 2014 vintage. Should age well for a decade or so.”"
+            }
+        ]
+    },
+    {
+        "name": "Taittinger Brut Vintage 2014",
+        "vintage": 2014,
+        "case_size": "6 × 75cl",
+        "price": 312.0,
+        "img": "/products/cut-out/1500/taittinger-brut-millesime-2014.png",
+        "reviews": [
+            {
+                "author": "Essi Avellan MW",
+                "score": "92 → 94/100",
+                "note": "“Taittinger’s Vintage offers admirable consistency from vintage to vintage making it always a safe choice, and one that is worth following over a number of years. The impeccably fresh, deliciously fruity and fragrantly floral house style always comes across singing in the glass. The 2014’s youthful nose is tight and mineral still, with cool, crisp fruitiness of Granny Smith apple and lime with toasty complexity emerging in the glass. A refined and classically lean vintage with electric energy to it. ”"
+            },
+            {
+                "author": "William Kelley",
+                "score": "92/100",
+                "note": "“The newly released 2014 Brut Millésimé from Taittinger is showing very well, offering up aromas of white peach, green apple, nougat and freshly baked bread. Medium to full-bodied, bright and incisive, with a charming core of fruit and a delicate mousse, this is a pretty, expressive vintage for Taittinger. Sufficiently open and fruit-driven to be enjoyed, toasty complexity with come with a few years on cork.”"
+            },
+            {
+                "author": "Jancis Robinson MW",
+                "score": "16+/20",
+                "note": "“Impressive autolysis on the nose. A lot of lemony froth and then a clean, flattering, crisp, well put together palate. I’d guess the dosage is very slightly higher than average nowadays (yes, it’s 9 g/l apparently) but the balance is good. A sort of mini Comtes?”"
+            }
+        ]
+    },
+    {
+        "name": "Deutz Blanc de Blancs 2013",
+        "vintage": 2013,
+        "case_size": "6 × 75cl",
+        "price": 290.0,
+        "img": "/products/cut-out/1500/deutz-blanc-de-blancs-2013.png",
+        "reviews": [
+            {
+                "author": "Antonio Galloni",
+                "score": "90/100",
+                "note": "“The 2013 Brut Blanc de Blancs is broad and ample on the palate, with the natural richness of the vintage. An extra year in bottle provides a stark contrast to the steelier personality of the 2014 tasted alongside it. Lemon confit, white flowers, mint and pastry notes give the 2013 an extra kick of flavor intensity and textural depth that is hugely appealing.”"
+            }
+        ]
+    },
+    {
+        "name": "Barons de Rothschild Blanc de Blancs 2008",
+        "vintage": 2008,
+        "case_size": "1 × 75cl",
+        "price": 178.0,
+        "img": "/products/full/barons-de-rothschild-blanc-de-blancs-2008.jpg",
+        "reviews": [
+            {
+                "author": "Antonio Galloni",
+                "score": "95/100",
+                "note": "“The 2008 Blanc de Blancs Cuvée Speciale is a blend of fruit from Le Mesnil-sur-Oger, Oger, Avize and Cramant. Deep, resonant and beautifully layered in the glass, the 2008 is super-impressive. I especially admire the way the wine fleshes out with a bit of air. Citrus, sage, menthol and dried flowers add nuance to what is a very powerful wine. The 2008 saw full malolactic fermentation, with some bâtonnage for added texture. This is a superb showing from the Rothschild family.”"
+            },
+            {
+                "author": "Essi Avellan MW",
+                "score": "90 → 92/100",
+                "note": "“Medium-deep lemon colour. Fresh, gently toasty, strongly lemony nose. Cream, roasted nuts and white flowers. Zesty, linear palate. Balanced, energisingly sharp but comes with innate charm.”"
+            }
+        ]
+    }
+]
